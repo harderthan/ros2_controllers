@@ -1,0 +1,7 @@
+<library path="ackermann_steering_controller">
+  <class name="ackermann_steering_controller/AckermannSteeringController" type="ackermann_steering_controller::AckermannSteeringController" base_class_type="controller_interface::ControllerInterface">
+  <description>
+    TODO(@harderthan): description
+  </description>
+  </class>
+</library>
