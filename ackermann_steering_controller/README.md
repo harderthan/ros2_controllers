@@ -1,6 +1,6 @@
 # Ackermann Steering Controller
 
-- [ ] Basic package structure implementing a controller that does nothing in particular, should have plugin, main header file, main cpp file, cmake properly set up, a load-controller test (see other controllers), no parameters, no subscriber or publisher
+- [x] Basic package structure implementing a controller that does nothing in particular, should have plugin, main header file, main cpp file, cmake properly set up, a load-controller test (see other controllers), no parameters, no subscriber or publisher
 - [ ] Add all basic subscribers and publishers, doing the least amount of activity, add basic controller documentation (see other controllers)
 - [ ] Add the implementation of the controller, subscriber callbacks and publishing to topics, add basic functional tests
 - [ ] Expose parameters and add tests that rely on setting parameters
